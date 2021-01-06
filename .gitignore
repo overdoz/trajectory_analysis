@@ -1,5 +1,7 @@
 data
 data/*
+plots
+plots/*
 *.json
 *.csv
 *.txt
